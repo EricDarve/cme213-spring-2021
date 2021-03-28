@@ -185,11 +185,11 @@ Office Hours: Monday&ndash;Friday, 9 AM&ndash;5 PM
 
 URL: [https://oae.stanford.edu](https://oae.stanford.edu)
 
-</br>
+<br/>
 
 **We hope you will enjoy this class and find it useful!**
 
-</br>
+<br/>
 
 ## Honor Code and Office of Community Standards
 
