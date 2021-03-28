@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+baseurl: /cme213-spring-2021
 title: CME 213 / ME 339
 subtitle: Website for Stanford CME 213 / ME 339
 email: darve@stanford.edu
 author: Eric Darve
-description: >- # this means to ignore newlines until "baseurl:"
-  Introduction to parallel computing using MPI, openMP, and CUDA
-baseurl: /cme213-spring-2021
+description: Introduction to parallel computing using MPI, openMP, and CUDA
 simple_search: http://google.com/search
 name: cme213-spring-2021
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
