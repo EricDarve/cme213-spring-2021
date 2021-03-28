@@ -13,31 +13,40 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
+title: CME 213 / ME 339
+subtitle: Website for Stanford CME 213 / ME 339
+email: darve@stanford.edu
+author: Eric Darve
+description: >- # this means to ignore newlines until "baseurl:"
+  Introduction to parallel computing using MPI, openMP, and CUDA
+baseurl: /cme213-spring-2021
+simple_search: http://google.com/search
+name: cme213-spring-2021
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+timezone: America/Los_Angeles
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+
+post:
+  template: _post.txt
+  extension: md
+
+page:
+  template: _page.txt
+  extension: md
+
+git:
+  branch: main
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - README.md
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
