@@ -13,7 +13,7 @@ Students and instructors are all adjusting to the changes and regulations that h
 
 ## Survey 
 
-Please fill this online [survey](https://docs.google.com/forms/d/e/1FAIpQLSdxd1rdTGfqHA7eGehUoLmVjeXHruqoR4IjYOeOE8cTdSa2wA/viewform?usp=sf_link).
+Please go to [Canvas](https://canvas.stanford.edu/courses/133903) to fill the online survey.
 
 ## Teaching staff
 
