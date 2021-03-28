@@ -3,7 +3,7 @@ layout: page
 title: Stanford CME 213 / ME 339  homepage
 ---
 
-**Machine Learning for Computational Engineering**
+**Introduction to parallel computing using MPI, openMP, and CUDA**
 
 These is the web site for CME 213 Introduction to parallel computing using MPI, openMP, and CUDA. This material was created by [Eric Darve](https://me.stanford.edu/people/eric-darve), with the help of course staff and students.
 
