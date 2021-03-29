@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stanford CME 213 / ME 339  homepage
+title: Stanford CME 213/ME 339 Spring 2021 homepage
 ---
 
 **Introduction to parallel computing using MPI, openMP, and CUDA**
