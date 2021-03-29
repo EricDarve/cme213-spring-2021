@@ -28,8 +28,9 @@ class: middle
 
 # Submission
 
-1. Copy your files to `cardinal`
-2. Run a Python script with code
+1. Submit your PDF on gradescope
+1. For your computer code, copy your files to `cardinal`
+1. Run a Python script it submit code
 
 Grading is done on gradescope
 
