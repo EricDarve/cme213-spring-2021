@@ -17,3 +17,9 @@ To generate the site:
 ```
 $ bundle exec jekyll serve --port=4000 --incremental
 ```
+
+To view the slides locally, you can use:
+
+```
+$ python3 -m http.server
+```
