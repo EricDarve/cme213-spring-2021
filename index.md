@@ -34,6 +34,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 04 Example of Parallel Computation; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27f038d0-7ca5-4cea-baf7-acfa012640b5)
 - 05 Shared memory processor; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95db1601-8ae0-45af-93a1-acfa012c4919)
 - [Reading assignment 1](Reading Assignments/Introduction_Parallel_Computing)
+- [Homework 1](Homework/hw1.pdf); [starter code](Homework/hw1.zip)
 
 ## Reading and links
 
