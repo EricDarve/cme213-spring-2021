@@ -25,6 +25,11 @@ See [Gradescope](https://www.gradescope.com/courses/258024) for all the current 
 
 CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2bea53e-710b-443e-bb1f-acfa0178a41b), [Slides](https://ericdarve.github.io/cme213-spring-2021/Lecture%20Slides/Lecture_01/Lecture_01.html)
 
+### C++ tutorial
+
+- [Tutorial slides](Lecture Slides/cpp tutorial/Tutorial_01.pdf)
+- [Tutorial code](Lecture Slides/cpp tutorial/code.zip)
+
 ### Module 1 Introduction to Parallel Computing
 
 - [Slides](https://ericdarve.github.io/cme213-spring-2021/Lecture%20Slides/Lecture_02/Lecture_02.html)
