@@ -1,3 +1,9 @@
 _site
 .sass-cache
 .jekyll-metadata
+Code/Lecture_03/cpp_thread
+Code/Lecture_03/mutex_demo
+Code/Lecture_04/hello_world_openmp
+Code/Lecture_04/for_loop_openmp
+Code/Lecture_04/matrix_prod_openmp
+Code/Lecture_04/shared_private_openmp

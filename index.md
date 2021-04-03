@@ -23,7 +23,7 @@ See [Gradescope](https://www.gradescope.com/courses/258024) for all the current 
 
 ### Introduction to the class
 
-CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2bea53e-710b-443e-bb1f-acfa0178a41b), [Slides](https://ericdarve.github.io/cme213-spring-2021/Lecture%20Slides/Lecture_01/Lecture_01.html)
+CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2bea53e-710b-443e-bb1f-acfa0178a41b), [Slides](Lecture Slides/Lecture_01/Lecture.html)
 
 ### C++ tutorial
 
@@ -32,7 +32,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 1 Introduction to Parallel Computing
 
-- [Slides](https://ericdarve.github.io/cme213-spring-2021/Lecture%20Slides/Lecture_02/Lecture_02.html)
+- [Slides](Lecture Slides/Lecture_02/Lecture.html)
 - 01 Homework 1; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0be0c85d-3bba-4758-8477-acfa011936d3)
 - 02 Why Parallel Computing; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242a8ba4-239c-4233-ab47-acfa011bc3c8)
 - 03 Top 500; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=344eb483-fdb4-4c2a-b19b-acfa012393bd)
@@ -40,6 +40,11 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 05 Shared memory processor; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95db1601-8ae0-45af-93a1-acfa012c4919)
 - [Reading assignment 1](Reading Assignments/Introduction_Parallel_Computing)
 - [Homework 1](Homework/hw1.pdf); [starter code](Homework/hw1.zip)
+
+### Module 2 Shared Memory Parallel Programming
+
+- [Lecture 3](Lecture Slides/Lecture_03/Lecture.html)
+- [Lecture 4](Lecture Slides/Lecture_04/Lecture.html)
 
 ## Reading and links
 
