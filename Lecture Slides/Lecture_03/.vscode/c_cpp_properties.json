@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Library/Developer/CommandLineTools/usr/include/c++/v1"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ]
+        }
+    ],
+    "version": 4
+}
