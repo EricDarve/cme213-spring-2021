@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "chrono": "cpp",
+        "vector": "cpp"
+    },
+    "cSpell.words": [
+        "musec",
+        "musecs"
+    ]
+}
