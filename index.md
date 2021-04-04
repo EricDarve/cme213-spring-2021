@@ -43,8 +43,8 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 2 Shared Memory Parallel Programming
 
-- C++ threads; [Slides](Lecture Slides/Lecture_03/Lecture.html)
-- Introduction to OpenMP; [Slides](Lecture Slides/Lecture_04/Lecture.html)
+- C++ threads; [Slides](Lecture Slides/Lecture_03/Lecture.html); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_03)
+- Introduction to OpenMP; [Slides](Lecture Slides/Lecture_04/Lecture.html); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_04)
 
 ## Reading and links
 
