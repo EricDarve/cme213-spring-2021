@@ -1,8 +1,8 @@
 class: center, middle
 
-# CME 213, ME 339 - Winter 2020
+# CME 213, ME 339&mdash;Winter 2021
 
-## Eric Darve, ICME
+## Eric Darve, ICME, Stanford
 
 ![:width 40%](Stanford.jpg)
 
@@ -256,7 +256,7 @@ class: center, middle
 
 # Formula used to approximate $\pi$
 
-$$ \frac{\pi}{2} = 1 + \frac{1}{3} \Big(
+$$\frac{\pi}{2} = 1 + \frac{1}{3} \Big(
     1 + \frac{2}{5} \Big( 
         1 + \frac{3}{7} \Big(
             1 + \frac{4}{9} \Big(
