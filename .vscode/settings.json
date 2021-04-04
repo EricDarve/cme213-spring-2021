@@ -1,5 +1,11 @@
 {
     "cSpell.words": [
         "jekyll"
-    ]
+    ],
+    "files.associations": {
+        "*.html": "markdown",
+        "ostream": "cpp",
+        "string": "cpp",
+        "__mutex_base": "cpp"
+    }
 }
