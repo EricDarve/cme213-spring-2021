@@ -5,7 +5,7 @@ title: Stanford CME 213/ME 339 Spring 2021 homepage
 
 **Introduction to parallel computing using MPI, openMP, and CUDA**
 
-This is the web site for CME 213 *Introduction to parallel computing using MPI, openMP, and CUDA.* This material was created by [Eric Darve](https://me.stanford.edu/people/eric-darve), with the help of course staff and students.
+This is the website for CME 213 *Introduction to parallel computing using MPI, openMP, and CUDA.* This material was created by [Eric Darve](https://me.stanford.edu/people/eric-darve), with the help of course staff and students.
 
 ## Syllabus
 
@@ -52,6 +52,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 10 OpenMP Hello World; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d946d55-6cc9-4b20-a7ad-ad0001249d0b)
 - 11 OpenMP for loop; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ec28d98-e910-4458-bac8-ad00012ce56a)
 - 12 OpenMP clause; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daee4a50-36fa-48f1-a244-ad000138d1c7)
+- [Reading assignment 2](Reading Assignments/OpenMP)
 
 ## Reading and links
 
