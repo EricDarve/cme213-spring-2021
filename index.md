@@ -45,6 +45,13 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 - C++ threads; [Slides](Lecture Slides/Lecture_03/Lecture.html); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_03)
 - Introduction to OpenMP; [Slides](Lecture Slides/Lecture_04/Lecture.html); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_04)
+- 06 C++ threads; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9bc07e2-9ed3-4659-b884-acff017ff497)
+- 07 Promise and future; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79f84744-e1c9-47dc-a832-acff018a68f9)
+- 08 mutex; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6a16c1e-bcb7-4e7c-b70d-ad000005d4b3)
+- 09 Introduction to OpenMP; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29287cfe-d491-4d39-a861-ad000121a591)
+- 10 OpenMP Hello World; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d946d55-6cc9-4b20-a7ad-ad0001249d0b)
+- 11 OpenMP for loop; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ec28d98-e910-4458-bac8-ad00012ce56a)
+- 12 OpenMP clause; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daee4a50-36fa-48f1-a244-ad000138d1c7)
 
 ## Reading and links
 
