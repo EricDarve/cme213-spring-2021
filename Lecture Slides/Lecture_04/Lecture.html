@@ -8,8 +8,19 @@
 </head>
 
 <body>
-    <script src="../load-mathjax.js" async></script>
     <script src="../remark/remark.min.js"></script>
+    <script src="../load-mathjax.js" async></script>    
+    <!-- <script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+    </script>    
+    <script type="text/javascript" id="MathJax-script" async src='../MathJax/es5/tex-svg.js'></script>      -->
     <script type="text/javascript">        
         remark.macros.scale = function (percentage) {
             var url = this;
@@ -28,8 +39,8 @@
             highlightLanguage: 'c++',
             highlightStyle: 'atom-one-light',            
             sourceUrl: 'Lecture.md'
-        });
-    </script>
+        });      
+    </script>   
 </body>
 
 </html>
