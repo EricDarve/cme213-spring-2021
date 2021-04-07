@@ -16,6 +16,9 @@ all: $(EXE)
 % : %.cpp
 	$(CPP) $(CPPFLAGS) -o $@ $< $(LIB)
 
+benchmark: matrix_prod_task
+	for p in {1..4}; do ./matrix_prod_task -p $$p; done
+
 .PHONY: clean
 clean:
 	$(RM) $(EXE)

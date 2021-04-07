@@ -75,5 +75,4 @@ int main()
             Traverse(root);
         }
     }
-    /* Condition variables in Pthreads would be used to manage the team of threads */
 }

@@ -27,12 +27,12 @@ int main(void)
     // Calculate all prime numbers smaller than n
 
     set<int> m;
-#pragma omp parallel for
+    #pragma omp parallel for
     for (int i = 2; i <= n; ++i)
     {
         bool is_prime = is_prime_test(i);
 
-#pragma omp critical
+        #pragma omp critical
         if (is_prime)
             m.insert(i); /* Save this prime */
     }
