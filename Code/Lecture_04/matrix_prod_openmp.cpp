@@ -99,7 +99,7 @@ int main(int argc, char **argv)
         }
     high_resolution_clock::time_point time_end = high_resolution_clock::now();
     auto duration = duration_cast<milliseconds>(time_end - time_begin).count();
-    printf("Elapsed time [millisec]: %lld\n", duration);
+    printf("Elapsed time [millisec]: %d\n", static_cast<int>(duration));
 
     if (debug) /* -g */
     {

@@ -1,5 +1,6 @@
 #include <omp.h>
 #include <cstdio>
+#include <cstdlib>
 #include <cassert>
 
 #define UNITTIME 1000
