@@ -1,6 +1,6 @@
 CPP := g++
 CPPFLAGS := -std=c++11 -Wall
-LDFLAGS :=
+LDFLAGS := -lpthread
 
 SRC := $(wildcard *.cpp)
 EXE := $(patsubst %.cpp,%,$(filter %.cpp,$(SRC)))
