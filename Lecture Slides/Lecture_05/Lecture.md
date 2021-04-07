@@ -110,7 +110,7 @@ This algorithm requires waiting for traversal of children to be complete.
 ---
 class: middle, center
 
-[tree_postorder.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_05/tree_postorder.cpp)
+`tree_postorder.cpp`
 
 ---
 class: middle
@@ -159,7 +159,7 @@ Processing entries in a list
 ---
 class: middle, center
 
-[list.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_05/list.cpp)
+`list.cpp`
 
 ---
 class: middle
@@ -270,6 +270,11 @@ class: middle, center
 Defines mutually exclusive tasks
 
 ---
+class: center, middle
+
+See [OpenMP examples](https://www.openmp.org/wp-content/uploads/openmp-examples-5-0-1.pdf#page=99) for more information.
+
+---
 class: middle
 
 ```
@@ -293,9 +298,67 @@ printf("d = %1d\n", d);
 ```
 
 ---
-class: middle, center
+class: center, middle
 
-![](2020-01-22-12-09-10.png)
+Matrix-matrix product with tasks
+
+---
+class: middle
+
+```
+#pragma omp parallel
+#pragma omp single
+for (int i = 0; i < N; i += BS)
+{
+    // Note 1: i, A, B, C are firstprivate by default
+    // Note 2: A, B and C are pointers
+    #pragma omp task depend(in: A[i*N:BS*N], B) depend(inout: C[i*N:BS*N])
+    for (int ii = i; ii < i + BS; ii++)
+        for (int j = 0; j < N; j++)
+            for (int k = 0; k < N; k++)
+                C[ii * N + j] += A[ii * N + k] * B[k * N + j];
+}
+```
+
+---
+class: center, middle
+
+`depend(in: A[i * N:BS * N])`
+
+Specifies the entries in `A` for which there is an `in` dependency.
+
+Syntax: `A[lower-bound : length : stride]`
+
+[Array sections](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5-1.pdf#page=68)<br/>
+[depend clause](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5-1.pdf#page=310)<br/>
+[Blocked matrix multiplication example](https://www.openmp.org/wp-content/uploads/openmp-examples-5-0-1.pdf#page=103)
+
+---
+class: center, middle
+
+Blocked Cholesky algorithm
+
+---
+
+```
+for (int k = 0; k < NB; k++)
+{
+    #pragma omp task depend(inout: A[k][k])
+    spotrf(A[k][k]);
+    for (int i = k + 1; i < NB; i++)
+        #pragma omp task depend(in: A[k][k]) depend(inout: A[k][i])
+        strsm(A[k][k], A[k][i]);
+    // update trailing submatrix
+    for (int i = k + 1; i < NB; i++)
+    {
+        for (int j = k + 1; j < i; j++)
+            #pragma omp task depend(in: A[k][i], A[k][j]) depend(inout: A[j][i])
+            sgemm(A[k][i], A[k][j], A[j][i]);
+        #pragma omp task depend(in: A[k][i]) depend(inout: A[i][i])
+        ssyrk(A[k][i], A[i][i]);
+    }
+}
+```
 
 ---
 class: middle, center
@@ -326,7 +389,7 @@ Improved efficiency
 ---
 class: middle, center
 
- Exercise: [entropy.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_05/entropy.cpp)
+ Exercise: `entropy.cpp`
 
 ---
 class: middle, center
@@ -350,7 +413,7 @@ class: middle, center
 ---
 class: middle, center
 
-[atomic.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_05/atomic.cpp)
+`atomic.cpp`
 
 ---
 class: middle
@@ -362,9 +425,9 @@ for (int i = 0; i < n; ++i)
     {
         const float x_ = x[i] - x[j];
         const float f_ = force(x_);
-#pragma omp atomic
+        #pragma omp atomic
         f[i] += f_;
-#pragma omp atomic
+        #pragma omp atomic
         f[j] -= f_;
     }
 ```
@@ -376,7 +439,7 @@ class: middle, center
 
 Restricts execution of the associated structured block to a single thread at a time
 
-[critical.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_05/critical.cpp)
+`critical.cpp`
 
 ---
 class: middle
@@ -388,7 +451,7 @@ for (int i = 2; i <= n; ++i)
 {
     bool is_prime = is_prime_test(i);
 
-#pragma omp critical
+    #pragma omp critical
     if (is_prime)
         m.insert(i); /* Save this prime */
 }
