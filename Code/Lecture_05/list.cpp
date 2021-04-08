@@ -29,16 +29,16 @@ void Visit(Node *curr_node)
 
 void IncrementListItems(Node *head)
 {
-#pragma omp parallel
+    #pragma omp parallel
     {
-#pragma omp single
+        #pragma omp single
         {
             Node *curr_node = head;
 
             while (curr_node)
             {
                 printf("Master thread. %p\n", (void *)curr_node);
-#pragma omp task
+                #pragma omp task
                 {
                     // curr_node is firstprivate by default
                     Wait();
@@ -99,13 +99,13 @@ int main()
 #if 0
 
 void IncrementListItems(Node* head) {
-#pragma omp parallel
+    #pragma omp parallel
     {
-#pragma omp single
+        #pragma omp single
         {
             Node* curr_node = head;
             while(curr_node) {
-#pragma omp task
+                #pragma omp task
                 {
                     // curr_node is firstprivate by default
                     Visit(curr_node);

@@ -464,4 +464,4 @@ Other topics (not covered)
 
 Affinity, `target`, `simd`, locks
 
-[OpenMP examples](https://www.openmp.org/wp-content/uploads/openmp-examples-5.0.0.pdf), [OpenMP specifications](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf)
+[OpenMP examples](https://www.openmp.org/wp-content/uploads/openmp-examples-5-0-1.pdf), [OpenMP specifications](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5-1.pdf)

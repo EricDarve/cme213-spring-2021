@@ -20,13 +20,13 @@ int main(void)
     const int n = 64;
     vector<float> x(n);
 
-/* Generate random points on the unit interval */
-#pragma omp parallel
+    /* Generate random points on the unit interval */
+    #pragma omp parallel
     {
         const long tid = omp_get_thread_num();
         randMT r(4357U + unsigned(tid));
-/* Thread safe generation of random numbers */
-#pragma omp for
+        /* Thread safe generation of random numbers */
+        #pragma omp for
         for (int i = 0; i < n; ++i)
             x[i] = r.rand();
     }
@@ -34,19 +34,19 @@ int main(void)
     /* Compute interaction forces between particles.
      Atomic is used. */
     vector<float> f(n);
-#pragma omp parallel for
+    #pragma omp parallel for
     for (int i = 0; i < n; ++i)
         f[i] = 0.;
 
-#pragma omp parallel for
+    #pragma omp parallel for
     for (int i = 0; i < n; ++i)
         for (int j = i + 1; j < n; ++j)
         {
             const float x_ = x[i] - x[j];
             const float f_ = force(x_);
-#pragma omp atomic
+            #pragma omp atomic
             f[i] += f_;
-#pragma omp atomic
+            #pragma omp atomic
             f[j] -= f_;
         }
 
