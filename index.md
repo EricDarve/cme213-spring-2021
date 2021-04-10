@@ -56,6 +56,8 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 3 Shared Memory Parallel Programming, OpenMP, advanced OpenMP
 
+- OpenMP, for loops, advanced OpenMP; [Slides](Lecture Slides/Lecture_05/Lecture.html)
+- OpenMP, sorting algorithms; [Slides](Lecture Slides/Lecture_06/Lecture.html)
 - [Homework 2](Homework/hw2.pdf); [starter code](Homework/hw2.zip); [radix sort tutorial](Homework/RadixSortTutorial.pdf)
 
 ## Reading and links

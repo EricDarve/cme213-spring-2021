@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CME 213 Lecture 5</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="cme213_style.css">
+    <style type="text/css">
+        @import url(https://fonts.googleapis.com/css?family=Inconsolata|Open+Sans|Roboto);
+
+        html {
+            font-size: 16pt;
+        }
+
+        body {
+            font-family: 'Open Sans';
+        }
+
+        .remark-slide-content {
+            font-size: 1.75rem;
+        }
+
+        .remark-slide-content h1,
+        .remark-slide-content h2,
+        .remark-slide-content h3,
+        .remark-slide-content h4 {
+            font-size: 2.25rem;
+            margin: 30pt;
+            font-family: 'Roboto';
+            font-weight: 700;
+        }
+
+        .remark-slide-content pre,
+        .remark-slide-content kbd,
+        .remark-slide-content tt,
+        .remark-slide-content samp {
+            font-family: 'Inconsolata';
+            font-size: 2rem;
+            color: rgb(62, 25, 226);
+        }
+
+        .remark-slide-content h2 {
+            font-size: 2.5rem;
+        }
+
+        .remark-slide-content h3 {
+            font-size: 1.5rem;
+        }
+
+        .remark-slide-content h4 {
+            font-size: 1.2rem;
+        }
+
+        .compact {
+            font-size: 1.2rem;
+        }
+
+        .remark-slide-content.compact {
+            padding: 20px 40px 0 40px;
+            font-size: 1.4rem;
+        }
+
+        .remark-slide-content.compact h1 {
+            font-size: 2.75rem;
+        }
+
+        .remark-slide-content.compact h2 {
+            font-size: 2.5rem;
+        }
+
+        .remark-inline-code {
+            font-family: 'Inconsolata';
+            font-size: 2rem;
+            color: rgb(62, 25, 226);
+        }
+
+        .remark-code {
+            font-family: 'Inconsolata';
+            font-size: 1.25rem;
+        }
+
+        table {
+            font-size: 1.25rem;
+            color: #333;
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 30px 0;
+        }
+
+        .red {
+            color: rgb(140, 21, 21);
+            font-weight: 700;
+        }
+
+        td,
+        th {
+            transition: all 0.3s;
+            padding: 10px 0;
+            /* Simple transition for hover effect */
+        }
+
+        th {
+            background: rgb(207, 255, 209);
+            /* Darken header a bit */
+            font-weight: bold;
+        }
+
+        td {
+            background: #FAFAFA;
+            text-align: center;
+        }
+
+        /* Cells in even rows (2,4,6...) are one color */
+        tr:nth-child(even) td {
+            background: #F1F1F1;
+        }
+
+        /* Cells in odd rows (1,3,5...) are another (excludes header cells)  */
+        tr:nth-child(odd) td {
+            background: #FEFEFE;
+        }
+
+        /* Hover cell effect */
+        tr td:hover {
+            background: rgb(133, 0, 0);
+            color: #FFF;
+        }
+
+        .two-column {
+            width: 48%;
+            float: left;
+            margin-right: 1%;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']]
+            }
+        };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+        </script>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script type="text/javascript">
+        remark.macros.width = function (percentage) {
+            var url = this;
+            return '<img src="' + url + '" style="width: ' + percentage + '" />';
+        };
+        remark.macros.height = function (percentage) {
+            var url = this;
+            return '<img src="' + url + '" style="height: ' + percentage + '" />';
+        };
+
+        var slideshow = remark.create({
+            ratio: '16:9',
+            highlightLanguage: 'c++',
+            highlightStyle: 'atom-one-light',
+            sourceUrl: 'Lecture_05.md'
+        });
+
+    </script>
+</body>
+
+</html>

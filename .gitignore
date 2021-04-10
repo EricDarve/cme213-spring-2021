@@ -7,3 +7,15 @@ Code/Lecture_04/hello_world_openmp
 Code/Lecture_04/for_loop_openmp
 Code/Lecture_04/matrix_prod_openmp
 Code/Lecture_04/shared_private_openmp
+Code/Lecture_05/atomic
+Code/Lecture_05/critical
+Code/Lecture_05/entropy_solution
+Code/Lecture_05/entropy
+Code/Lecture_05/list
+Code/Lecture_05/reduction_array
+Code/Lecture_05/tree_postorder
+Code/Lecture_05/tree
+Code/Lecture_05/matrix_prod_task
+Code/Lecture_06/bitonic_sort
+Code/Lecture_06/bitonic_sort_lab
+Code/Lecture_06/bitonic_sort_seq

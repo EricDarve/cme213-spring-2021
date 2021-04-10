@@ -6,6 +6,22 @@
         "*.html": "markdown",
         "ostream": "cpp",
         "string": "cpp",
-        "__mutex_base": "cpp"
+        "__mutex_base": "cpp",
+        "chrono": "cpp",
+        "vector": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "random": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "utility": "cpp",
+        "cstdlib": "cpp"
     }
 }

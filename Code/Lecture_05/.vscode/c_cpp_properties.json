@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "macOS",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+        }
+    ],
+    "version": 4
+}
