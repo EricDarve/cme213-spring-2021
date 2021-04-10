@@ -39,7 +39,7 @@ Grading is done on gradescope
 ---
 class: center, middle
 
-Deadline is **Friday, March 9**
+Deadline is **Friday, April 9**
 
 ---
 class: center, middle
