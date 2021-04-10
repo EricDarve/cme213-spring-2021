@@ -84,7 +84,7 @@ def quicksort(A,l,u):
         quicksort(A,s+1,u)
 ```
 
-[Python code](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_06/sort.py)
+[Python code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_05)
 
 ---
 class: middle, center
@@ -93,11 +93,11 @@ On average, it runs very fast, even faster than mergesort.
 
 It requires no additional memory
 
-[Musical demo](https://www.youtube.com/watch?v=9IqV6ZSjuaI)
+[Musical demo LL pointers](https://www.youtube.com/watch?v=9IqV6ZSjuaI)
 
-[Musical demo](https://www.youtube.com/watch?v=8hEyhs3OV1w)
+[Musical demo LR pointers](https://www.youtube.com/watch?v=8hEyhs3OV1w)
 
-[Musical demo](https://www.youtube.com/watch?v=q4wzJ_uw4aE)
+[Musical demo Quicksort ternary](https://www.youtube.com/watch?v=q4wzJ_uw4aE)
 
 ---
 class: middle, center
@@ -279,16 +279,17 @@ $(\log n)^2$ passes
 
 [Musical demo](https://www.youtube.com/watch?v=r-erNO-WICo)
 
-[Python code](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_06/bitonic_sort.py)
+[Python code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_06)
 
 ---
 class: middle
 
 Exercise
 
-- [bitonic_sort_lab.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_06/bitonic_sort_lab.cpp)Open this code to start the exercise
-- [bitonic_sort.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_06/bitonic_sort.cpp) Solution with OpenMP
-- [bitonic_sort_seq.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_06/bitonic_sort_seq.cpp)Reference sequential implementation
+- `bitonic_sort_lab.cpp`Open this code to start the exercise
+- `bitonic_sort.cpp` Solution with OpenMP
+- `bitonic_sort_seq.cpp`Reference sequential implementation
+- [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_06)
 
 ---
 class: center, middle
@@ -392,13 +393,19 @@ at the end of the `i` loop block
 `for (int i = chunk << 1; i <= n; i <<= 1){}`
 
 ---
-class: middle, center
+class: middle
 
-The exercise is complete
+The exercise is complete.
 
 Your code should now produce the correct result!
 
-[bitonic_sort.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_06/bitonic_sort.cpp)
+The running time should decrease as you increase the number of threads.
+
+Run using
+
+```
+export OMP_NUM_THREADS=4; ./bitonic_sort
+```
 
 ---
 class: middle
