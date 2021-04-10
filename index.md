@@ -23,7 +23,7 @@ See [Gradescope](https://www.gradescope.com/courses/258024) for all the current 
 
 ### Introduction to the class
 
-CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2bea53e-710b-443e-bb1f-acfa0178a41b), [Slides](Lecture Slides/Lecture_01/Lecture.html)
+CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2bea53e-710b-443e-bb1f-acfa0178a41b), [Slides](Lecture Slides/Lecture_01.pdf)
 
 ### C++ tutorial
 
@@ -32,7 +32,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 1 Introduction to Parallel Computing
 
-- [Slides](Lecture Slides/Lecture_02/Lecture.html)
+- [Slides](Lecture Slides/Lecture_02.pdf)
 - 01 Homework 1; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0be0c85d-3bba-4758-8477-acfa011936d3)
 - 02 Why Parallel Computing; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=242a8ba4-239c-4233-ab47-acfa011bc3c8)
 - 03 Top 500; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=344eb483-fdb4-4c2a-b19b-acfa012393bd)
@@ -43,8 +43,8 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 2 Shared Memory Parallel Programming
 
-- C++ threads; [Slides](Lecture Slides/Lecture_03/Lecture.html); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_03)
-- Introduction to OpenMP; [Slides](Lecture Slides/Lecture_04/Lecture.html); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_04)
+- C++ threads; [Slides](Lecture Slides/Lecture_03.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_03)
+- Introduction to OpenMP; [Slides](Lecture Slides/Lecture_04.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_04)
 - 06 C++ threads; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9bc07e2-9ed3-4659-b884-acff017ff497)
 - 07 Promise and future; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79f84744-e1c9-47dc-a832-acff018a68f9)
 - 08 mutex; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6a16c1e-bcb7-4e7c-b70d-ad000005d4b3)
@@ -56,8 +56,8 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 3 Shared Memory Parallel Programming, OpenMP, advanced OpenMP
 
-- OpenMP, for loops, advanced OpenMP; [Slides](Lecture Slides/Lecture_05/Lecture.html)
-- OpenMP, sorting algorithms; [Slides](Lecture Slides/Lecture_06/Lecture.html)
+- OpenMP, for loops, advanced OpenMP; [Slides](Lecture Slides/Lecture_05.pdf)
+- OpenMP, sorting algorithms; [Slides](Lecture Slides/Lecture_06.pdf)
 - 13 OpenMP tasks; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35aeb01b-2bde-4874-8e5c-ad040000c4d9)
 - 14 OpenMP depend; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=177e97ab-0811-48c6-8f43-ad04000dc0e3)
 - 15 OpenMP synchronization; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=578d24ec-4323-4e21-a8d4-ad0400267df5)
