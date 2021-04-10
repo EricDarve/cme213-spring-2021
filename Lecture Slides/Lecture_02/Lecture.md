@@ -1,6 +1,6 @@
 class: center, middle
 
-# CME 213, ME 339&mdash;Winter 2021<br/>Introduction to parallel computing using MPI, openMP, and CUDA
+# CME 213, ME 339&mdash;Spring 2021<br/>Introduction to parallel computing using MPI, openMP, and CUDA
 
 ## Eric Darve, ICME, Stanford
 

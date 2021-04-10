@@ -1,6 +1,6 @@
 class: center, middle
 
-# CME 213, ME 339&mdash;Winter 2021
+# CME 213, ME 339&mdash;Spring 2021
 
 ## Eric Darve, ICME, Stanford
 
