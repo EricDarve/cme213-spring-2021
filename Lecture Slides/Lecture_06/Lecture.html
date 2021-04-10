@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CME 213 Spring 2021</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />   
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <script src="../remark/remark.min.js"></script>
+    <script src="../load-mathjax.js" async></script>    
+    <!-- <script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+    </script>    
+    <script type="text/javascript" id="MathJax-script" async src='../MathJax/es5/tex-svg.js'></script>      -->
+    <script type="text/javascript">        
+        remark.macros.scale = function (percentage) {
+            var url = this;
+            return '<img src="' + url + '" style="width: ' + percentage + '" />';
+        }; 
+        remark.macros.width = function (px) {
+            var url = this;
+            return '<img src="' + url + '" style="width: ' + px + '" />';
+        };         
+        remark.macros.height = function (px) {
+            var url = this;
+            return '<img src="' + url + '" style="height: ' + px + '" />';
+        };        
+        var slideshow = remark.create({
+            ratio: '16:9',
+            highlightLanguage: 'c++',
+            highlightStyle: 'atom-one-light',            
+            sourceUrl: 'Lecture.md'
+        });      
+    </script>   
+</body>
+
+</html>
