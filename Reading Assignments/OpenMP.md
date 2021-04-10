@@ -9,8 +9,8 @@ Write your answers in a PDF and upload the document on [Gradescope](https://www.
 
 Please watch the videos 06 through 12 and the slides before answering the questions:
 
-- C++ threads; [Slides](Lecture Slides/Lecture_03/Lecture.html); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_03)
-- Introduction to OpenMP; [Slides](Lecture Slides/Lecture_04/Lecture.html); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_04)
+- C++ threads; [Slides](../Lecture Slides/Lecture_03.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_03)
+- Introduction to OpenMP; [Slides](../Lecture Slides/Lecture_04.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_04)
 - 06 C++ threads; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9bc07e2-9ed3-4659-b884-acff017ff497)
 - 07 Promise and future; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79f84744-e1c9-47dc-a832-acff018a68f9)
 - 08 mutex; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6a16c1e-bcb7-4e7c-b70d-ad000005d4b3)

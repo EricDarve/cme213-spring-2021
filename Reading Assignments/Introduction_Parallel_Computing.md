@@ -13,7 +13,7 @@ Please watch the videos 02 through 05 and the slides before answering the questi
 - 03 Top 500; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=344eb483-fdb4-4c2a-b19b-acfa012393bd)
 - 04 Example of Parallel Computation; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27f038d0-7ca5-4cea-baf7-acfa012640b5)
 - 05 Shared memory processor; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95db1601-8ae0-45af-93a1-acfa012c4919)
-- [Slides](https://ericdarve.github.io/cme213-spring-2021/Lecture%20Slides/Lecture_02/Lecture_02.html)
+- [Slides](../Lecture Slides/Lecture_02.pdf)
 
 Answer these questions:
 
