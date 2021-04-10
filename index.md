@@ -56,8 +56,8 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 3 Shared Memory Parallel Programming, OpenMP, advanced OpenMP
 
-- OpenMP, for loops, advanced OpenMP; [Slides](Lecture Slides/Lecture_05.pdf)
-- OpenMP, sorting algorithms; [Slides](Lecture Slides/Lecture_06.pdf)
+- OpenMP, for loops, advanced OpenMP; [Slides](Lecture Slides/Lecture_05.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_05)
+- OpenMP, sorting algorithms; [Slides](Lecture Slides/Lecture_06.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_06)
 - 13 OpenMP tasks; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35aeb01b-2bde-4874-8e5c-ad040000c4d9)
 - 14 OpenMP depend; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=177e97ab-0811-48c6-8f43-ad04000dc0e3)
 - 15 OpenMP synchronization; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=578d24ec-4323-4e21-a8d4-ad0400267df5)
