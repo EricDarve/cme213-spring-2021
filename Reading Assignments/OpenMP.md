@@ -3,7 +3,7 @@ layout: page
 title: Reading Assignment 2
 ---
 
-## Introduction to parallel Computing
+## OpenMP
 
 Write your answers in a PDF and upload the document on [Gradescope](https://www.gradescope.com/courses/258024) for submission. The due date is given on [Gradescope](https://www.gradescope.com/courses/258024). Each question is worth 10 points. 
 
