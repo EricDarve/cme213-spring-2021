@@ -58,6 +58,12 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 - OpenMP, for loops, advanced OpenMP; [Slides](Lecture Slides/Lecture_05/Lecture.html)
 - OpenMP, sorting algorithms; [Slides](Lecture Slides/Lecture_06/Lecture.html)
+- 13 OpenMP tasks; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35aeb01b-2bde-4874-8e5c-ad040000c4d9)
+- 14 OpenMP depend; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=177e97ab-0811-48c6-8f43-ad04000dc0e3)
+- 15 OpenMP synchronization; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=578d24ec-4323-4e21-a8d4-ad0400267df5)
+- 16 Sorting algorithms Quicksort Mergesort; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=368a4b90-eb0f-4e78-bf4e-ad05017f6de7)
+- 17 Sorting Algorithms Bitonic Sort; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c1c540a-d757-4dd1-b9ae-ad060004de65)
+- 18 Bitonic Sort Exercise; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29690a03-da5e-468c-bdfb-ad060014f654)
 - [Homework 2](Homework/hw2.pdf); [starter code](Homework/hw2.zip); [radix sort tutorial](Homework/RadixSortTutorial.pdf)
 
 ## Reading and links
