@@ -84,7 +84,7 @@ def quicksort(A,l,u):
         quicksort(A,s+1,u)
 ```
 
-[Python code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_05)
+[Python code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_06)
 
 ---
 class: middle, center

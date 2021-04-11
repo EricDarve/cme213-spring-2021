@@ -64,6 +64,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 16 Sorting algorithms Quicksort Mergesort; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=368a4b90-eb0f-4e78-bf4e-ad05017f6de7)
 - 17 Sorting Algorithms Bitonic Sort; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c1c540a-d757-4dd1-b9ae-ad060004de65)
 - 18 Bitonic Sort Exercise; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29690a03-da5e-468c-bdfb-ad060014f654)
+- [Reading assignment 3](Reading Assignments/OpenMP_advanced)
 - [Homework 2](Homework/hw2.pdf); [starter code](Homework/hw2.zip); [radix sort tutorial](Homework/RadixSortTutorial.pdf)
 
 ## Reading and links

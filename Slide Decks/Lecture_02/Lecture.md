@@ -189,7 +189,7 @@ class: center, middle
 ---
 class: center, middle
 
-![:width 70%](2021-03-29-09-18-42.png)
+![:width 60%](2021-03-29-09-18-42.png)
 
 ---
 class: center, middle
