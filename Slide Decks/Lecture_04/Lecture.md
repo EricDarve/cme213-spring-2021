@@ -201,7 +201,7 @@ class: center, middle
 
 ![:width 30%](pi.png)
 
-[hello_world_openmp.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_04/hello_world_openmp.cpp)
+[hello_world_openmp.cpp](https://github.com/EricDarve/cme213-spring-2021/blob/main/Code/Lecture_04/hello_world_openmp.cpp)
 
 ---
 class: middle
@@ -228,7 +228,7 @@ class: middle
 ---
 class: middle
 
-Choose your compiler in [Makefile](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_04/Makefile)
+Choose your compiler in [Makefile](https://github.com/EricDarve/cme213-spring-2021/blob/main/Code/Lecture_04/Makefile)
 
 `$ make`
 
@@ -278,7 +278,7 @@ This example cover 99% of the needs for scientific computing
 ---
 class: middle
 
-[for_loop_openmp.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_04/for_loop_openmp.cpp)
+[for_loop_openmp.cpp](https://github.com/EricDarve/cme213-spring-2021/blob/main/Code/Lecture_04/for_loop_openmp.cpp)
 
 ```
 #pragma omp parallel for
@@ -290,7 +290,7 @@ class: middle
 
 # Exercise
 
-[matrix_prod_openmp.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_04/matrix_prod_openmp.cpp)
+[matrix_prod_openmp.cpp](https://github.com/EricDarve/cme213-spring-2021/blob/main/Code/Lecture_04/matrix_prod_openmp.cpp)
 
 Parallelize the matrix-matrix product
 
@@ -405,7 +405,7 @@ But they can be changed using `shared` and `private`
 ---
 class: center, middle
 
-[shared_private_openmp.cpp](https://github.com/stanford-cme213/stanford-cme213.github.io/blob/master/Code/Lecture_04/shared_private_openmp.cpp)
+[shared_private_openmp.cpp](https://github.com/EricDarve/cme213-spring-2021/blob/main/Code/Lecture_04/shared_private_openmp.cpp)
 
 ---
 class: middle
