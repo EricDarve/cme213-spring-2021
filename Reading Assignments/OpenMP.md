@@ -7,6 +7,8 @@ title: Reading Assignment 2
 
 Write your answers in a PDF and upload the document on [Gradescope](https://www.gradescope.com/courses/258024) for submission. The due date is given on [Gradescope](https://www.gradescope.com/courses/258024). Each question is worth 10 points. 
 
+[Starter code](Code/ra2.zip) for all the questions.
+
 Please watch the videos 06 through 12 and the slides before answering the questions:
 
 - C++ threads; [Slides](../Lecture Slides/Lecture_03.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_03)
