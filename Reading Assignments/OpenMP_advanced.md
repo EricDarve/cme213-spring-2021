@@ -9,7 +9,7 @@ Write your answers in a PDF and upload the document on [Gradescope](https://www.
 
 Please watch the videos 13 through 18 and the slides before answering these questions.
 
-[Starter code](Code/ra3.zip) for all the questions.
+[Starter code](../Code/ra3.zip) for all the questions.
 
 [Slide Deck](../Lecture Slides/Lecture_05.pdf)
 
