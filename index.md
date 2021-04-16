@@ -19,6 +19,8 @@ Submissions after the deadline and late by at most two days (+48 hours after the
 
 See [Gradescope](https://www.gradescope.com/courses/258024) for all the current assignments and their due dates. Post on [Slack](https://cme213-spring-2021.slack.com/) if you cannot access the Gradescope class page. The 6-letter code to join the class is given on [Canvas](https://canvas.stanford.edu/courses/133903).
 
+[Datasheet on the Quadro RTX 6000](Code/quadro.txt)
+
 ## Class modules and learning material
 
 ### Introduction to the class
