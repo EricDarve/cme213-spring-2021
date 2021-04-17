@@ -69,6 +69,11 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - [Reading assignment 3](Reading Assignments/OpenMP_advanced)
 - [Homework 2](Homework/hw2.pdf); [starter code](Homework/hw2.zip); [radix sort tutorial](Homework/RadixSortTutorial.pdf)
 
+### Module 4 Introduction to CUDA programming
+
+- Introduction to GPU computing; [Slides](Lecture Slides/Lecture_07.pdf)
+- Introduction to CUDA and `nvcc`; [Slides](Lecture Slides/Lecture_08.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_08)
+
 ## Reading and links
 
 **Lawrence Livermore National Lab Resources**
