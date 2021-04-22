@@ -82,6 +82,11 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 24 nvcc CUDA compiler; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6436528-7096-4b7e-804d-ad0d011ff2f9)
 - [Reading assignment 4](Reading Assignments/CUDA_intro)
 
+### Module 5 Code performance on NVIDIA GPUs
+
+- GPU memory and matrix transpose; [Slides](Lecture Slides/Lecture_09.pdf)
+- 25 GPU memory; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a337c354-634b-4036-a2bd-ad120000d2dc)
+
 ## Reading and links
 
 **Lawrence Livermore National Lab Resources**
