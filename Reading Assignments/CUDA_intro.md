@@ -37,11 +37,11 @@ Please watch the videos 19 through 24 and the slides before answering these ques
 1. What is the SLURM command to cancel a job?
 1. Explain the meaning of the keywords `__global__` and `__device__` in CUDA.
 1. Explain what the following built-in CUDA variables are: `threadIdx`, `blockDim`, `blockIdx`.
-1. [Starter code.](../Code/ra4.zip) Modify the program `firstProgram.cu` so that you compute an array of type `float` with entries
+1. [Starter code.](../Code/ra4.zip) Read the program `firstProgram.cu`. Then, fill-in the TODOs in `R4.cu` so that you compute an array of type `float` with entries
 ```
 out[i] = 1. / i;
 ```
-Go through `addMatrices.cu` for useful examples. The size of the array should be equal to 100,000. Each CUDA thread should compute a single entry `out[i]`. The number of threads in a CUDA block should be chosen equal to 512.
+Please read as well `addMatrices.cu` where you will find useful examples. The size of the array should be equal to 100,000. Each CUDA thread should compute a single entry `out[i]`. The number of threads in a CUDA block should be chosen equal to 512.
 1. Explain the difference between a virtual architecture and a real architecture in `nvcc`.
 1. What are the recommended `nvcc` options to compile CUDA code on `icme-gpu`?
 1. Explain what the shorthand option `--gpu-architecture=sm_75` does during the compilation process using `nvcc`.
