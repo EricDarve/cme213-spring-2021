@@ -81,6 +81,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 23 b First CUDA program part 2; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d7e66bf-5b82-4200-bfd6-ad0d0006288a)
 - 24 nvcc CUDA compiler; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6436528-7096-4b7e-804d-ad0d011ff2f9)
 - [Reading assignment 4](Reading Assignments/CUDA_intro)
+- [Homework 3](Homework/hw3.pdf); [starter code](Homework/hw3.zip)
 
 ### Module 5 Code performance on NVIDIA GPUs
 
