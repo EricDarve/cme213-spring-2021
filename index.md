@@ -91,6 +91,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 27 Latency, concurrency, and occupancy; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78a55dba-48a6-474b-bb69-ad13000fd03f)
 - 28 CUDA branching; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf1019a1-0440-4d70-951b-ad130028ef48)
 - 29 Homework 4; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e103553-aedf-434c-a1c5-ad1400016f4c)
+- [Reading assignment 5](Reading Assignments/GPU_performance)
 
 
 ## Reading and links
