@@ -13,7 +13,7 @@ Please watch the videos 25 through 28 and the slides before answering these ques
 
 1. Is the L2 cache local to an SM or is it shared by all SMs on the GPU?
 1. See slide [11](../Lecture Slides/Lecture_09.pdf#page=11). On the Turing GPU, which offsets give you peak bandwidth and which offsets give you the lowest bandwidth?
-1. See page [27](../Lecture Slides/Lecture_09.pdf#page=27) of the slides. Consider `simpleTranspose`. Assume that the read is at peak performance (480 GB/sec). Assume that the writes have the worst possible performance (1/32 of the peak). Estimate the performance of `simpleTranspose`. Does your estimate match the measurement?
+1. See slide [27](../Lecture Slides/Lecture_09.pdf#page=27). Consider `simpleTranspose`. Assume that the read is at peak performance (480 GB/sec). Assume that the writes have the worst possible performance (1/32 of the peak). Estimate the performance of `simpleTranspose`. Does your estimate match the measurement?
 1. Let's assume that thread `i` in a warp accesses bank `(3*i)%32` in shared memory. Does this lead to a shared memory bank conflict? What happens if thread `i` accesses bank `(6*i)%32`?
 
 
