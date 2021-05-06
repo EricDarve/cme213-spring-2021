@@ -98,7 +98,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 ### Module 6 NVIDIA guest lectures, openACC, CUDA optimization
 
 - 30 NVIDIA guest lecture, openACC; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3d931e4b-6a73-481f-b016-ad1d0181ed43); [Slides](Lecture Slides/CME213_2021_OpenACC.pdf)
-- 31 NVIDIA guest lecture, CUDA optimization
+- 31 NVIDIA guest lecture, CUDA optimization; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa6c8558-b4fd-49cd-9e18-ad1f01843b34); [Slides](Lecture Slides/CME213_2021_Optimization.pdf)
 - [Reading assignment 6](Reading Assignments/NVIDIA_openACC_optimization)
 
 ## Reading and links
