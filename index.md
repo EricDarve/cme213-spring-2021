@@ -109,6 +109,10 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 35 Final Project 3, CUDA GEMM and MPI; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8578af5-61a1-4b52-89af-ad24001198d4)
 - [Reading assignment 7](Reading Assignments/NVIDIA_CUDA_profiling)
 
+### Module 8 Group activity and introduction to MPI
+
+- [generate_sequence.cpp](Code/generate_sequence.cpp)
+
 ## Reading and links
 
 **Lawrence Livermore National Lab Resources**
