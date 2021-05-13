@@ -21,6 +21,19 @@ See [Gradescope](https://www.gradescope.com/courses/258024) for all the current 
 
 [Datasheet on the Quadro RTX 6000](Code/quadro.txt)
 
+### Final Project
+
+Final project instructions:
+
+- [Final Project Part 1](Homework/Part1.pdf)
+
+Slides and videos explaining the final project:
+
+- Overview of the final project; [Slides](Lecture Slides/Lecture_14.pdf)
+- 33 Final Project 1, Overview; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4426523-7954-4526-a518-ad23017febd1)
+- 34 Final Project 2, Regularization; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9a4709c-3fe8-434c-a837-ad24000112af)
+- 35 Final Project 3, CUDA GEMM and MPI; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8578af5-61a1-4b52-89af-ad24001198d4)
+
 ## Class modules and learning material
 
 ### Introduction to the class
@@ -103,10 +116,6 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 7 NVIDIA guest lectures, Final Project Instructions
 - 32 NVIDIA guest lecture, CUDA profiling; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba6a97a2-7841-4c37-8ca1-ad240180023e); [Slides](Lecture Slides/CME213_2021_CUDA_Profiling.pdf)
-- Final project instructions; [Slides](Lecture Slides/Lecture_14.pdf)
-- 33 Final Project 1, Presentation; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4426523-7954-4526-a518-ad23017febd1)
-- 34 Final Project 2, Regularization; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9a4709c-3fe8-434c-a837-ad24000112af)
-- 35 Final Project 3, CUDA GEMM and MPI; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8578af5-61a1-4b52-89af-ad24001198d4)
 - [Reading assignment 7](Reading Assignments/NVIDIA_CUDA_profiling)
 
 ### Module 8 Group activity and introduction to MPI
