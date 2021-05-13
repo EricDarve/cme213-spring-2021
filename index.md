@@ -121,7 +121,7 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 ### Module 8 Group activity and introduction to MPI
 
 - [generate_sequence.cpp](Code/generate_sequence.cpp)
-- 36 Instructions for group activity; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04de4abf-6adb-4c3a-ade1-ad27002d0260); [Slides](Lecture Slides/Lecture_15.pdf)
+- 36 Instructions for Monday, May 17 group activity; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04de4abf-6adb-4c3a-ade1-ad27002d0260); [Slides](Lecture Slides/Lecture_15.pdf)
 
 ## Reading and links
 
