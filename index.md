@@ -23,7 +23,7 @@ See [Gradescope](https://www.gradescope.com/courses/258024) for all the current 
 
 ### Final Project
 
-Final project instructions:
+Final project instructions and starter code:
 
 - [Final Project Part 1](Homework/Part1.pdf)
 - [Final Project Part 2](Homework/Part2.pdf)
