@@ -26,6 +26,7 @@ See [Gradescope](https://www.gradescope.com/courses/258024) for all the current 
 Final project instructions:
 
 - [Final Project Part 1](Homework/Part1.pdf)
+- [Final Project Part 2](Homework/Part2.pdf)
 
 Slides and videos explaining the final project:
 
@@ -127,6 +128,10 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 38 MPI Hello World; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8beedcb-bbc4-439b-b1d1-ad29017e0914)
 - 39 MPI Send Recv; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d36f28c6-9c62-4c80-8902-ad29018641d6)
 - 40 MPI Collective Communications; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51c5cb27-157b-4fe4-a264-ad2a00028c67)
+
+### Module 9 Advanced MPI
+
+- [Reading assignment 8](Reading Assignments/MPI)
 
 ## Reading and links
 
