@@ -36,6 +36,8 @@ Slides and videos explaining the final project:
 - 34 Final Project 2, Regularization; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9a4709c-3fe8-434c-a837-ad24000112af)
 - 35 Final Project 3, CUDA GEMM and MPI; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8578af5-61a1-4b52-89af-ad24001198d4)
 
+See also the [Module 8](https://ericdarve.github.io/cme213-spring-2021/#module-8-group-activity-and-introduction-to-mpi) videos on MPI.
+
 ## Class modules and learning material
 
 ### Introduction to the class
