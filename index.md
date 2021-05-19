@@ -124,9 +124,6 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 
 ### Module 8 Group activity and introduction to MPI
 
-- [generate_sequence.cpp](Code/generate_sequence.cpp)
-- 36 Instructions for Monday, May 17 group activity; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04de4abf-6adb-4c3a-ade1-ad27002d0260); [Slides](Lecture Slides/Lecture_15.pdf)
-
 The slides and videos below are needed for the final project.
 
 - Introduction to MPI; [Slides](Lecture Slides/Lecture_16.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_16)
@@ -134,6 +131,11 @@ The slides and videos below are needed for the final project.
 - 38 MPI Hello World; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8beedcb-bbc4-439b-b1d1-ad29017e0914)
 - 39 MPI Send Recv; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d36f28c6-9c62-4c80-8902-ad29018641d6)
 - 40 MPI Collective Communications; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51c5cb27-157b-4fe4-a264-ad2a00028c67)
+
+Material for the May 17 group activity:
+
+- [generate_sequence.cpp](Code/generate_sequence.cpp)
+- 36 Instructions for Monday, May 17 group activity; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04de4abf-6adb-4c3a-ade1-ad27002d0260); [Slides](Lecture Slides/Lecture_15.pdf)
 
 ### Module 9 Advanced MPI
 
