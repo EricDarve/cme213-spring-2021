@@ -118,7 +118,8 @@ CME 213 First Live Lecture; [Video](https://stanford-pilot.hosted.panopto.com/Pa
 - 31 NVIDIA guest lecture, CUDA optimization; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa6c8558-b4fd-49cd-9e18-ad1f01843b34); [Slides](Lecture Slides/CME213_2021_Optimization.pdf)
 - [Reading assignment 6](Reading Assignments/NVIDIA_openACC_optimization)
 
-### Module 7 NVIDIA guest lectures, Final Project Instructions
+### Module 7 NVIDIA guest lectures
+
 - 32 NVIDIA guest lecture, CUDA profiling; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba6a97a2-7841-4c37-8ca1-ad240180023e); [Slides](Lecture Slides/CME213_2021_CUDA_Profiling.pdf)
 - [Reading assignment 7](Reading Assignments/NVIDIA_CUDA_profiling)
 
