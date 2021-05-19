@@ -137,6 +137,11 @@ The slides and videos below are needed for the final project.
 
 ### Module 9 Advanced MPI
 
+- 41 MPI Process Mapping; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53a88ac4-8574-4c83-8c2b-ad2d00031dff)
+- 42 MPI Buffering; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36217368-59a9-416a-b854-ad2d0007de35)
+- 43 MPI Send Recv Deadlocks; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d662dbbc-18fb-4efb-bb02-ad2d000b10c1)
+- 44 MPI Non-blocking; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a68314e-15ab-4ac9-a8a0-ad2d000ebc31)
+
 <!-- - [Reading assignment 8](Reading Assignments/MPI) -->
 
 ## Reading and links
