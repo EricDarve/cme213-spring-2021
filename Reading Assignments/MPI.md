@@ -22,7 +22,7 @@ mpirun --bind-to hwthread --map-by core ./mpi_hello
 {:start="6"}
 6. Explain the difference between `MPI_Recv` with and without buffer.
 7. Describe a scenario in which an MPI program deadlocks.
-8. Explain the role of `MPI_Request` when doing `MPI_Isend` or `MPI_Irecv`.
+8. Explain the role of `MPI_Request` when doing `MPI_Isend` and `MPI_Irecv`.
 9. Is there a performance difference between an MPI matrix-vector product with row partitioning and column partitioning?
 10. What is the speed-up of a program according to Amdahl's Law?
 11. What is the speed-up of a program according to Gustafson's Law?
@@ -35,6 +35,8 @@ $$ T_1(n) = \alpha n^3 $$
 $$ T_p(n) = \alpha \frac{n^3}{p} + \beta \log p + \gamma \Big( \frac{n^2}{p^{2/3}} \Big) \log p $$
 
 Compute the iso-efficiency function $p(n)$ of this algorithm.
+
+Hint: slide [60](https://ericdarve.github.io/cme213-spring-2021/Lecture%20Slides/Lecture_18.pdf#page=60) will be useful.
 
 {:start="15"}
 15. Explain what the MPI function `MPI_Group_incl` does.
