@@ -146,6 +146,7 @@ Material for the May 17 group activity:
 - 43 MPI Send Recv Deadlocks; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d662dbbc-18fb-4efb-bb02-ad2d000b10c1)
 - 44 MPI Non-blocking; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a68314e-15ab-4ac9-a8a0-ad2d000ebc31)
 - 45 MPI Send Modes; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23b20f84-badf-4463-8a93-ad2d0029dd5f)
+- Parallel efficiency and MPI communicators; [Slides](Lecture Slides/Lecture_18.pdf); [Code](https://github.com/EricDarve/cme213-spring-2021/tree/main/Code/Lecture_18)
 - 46 MPI Matrix-vector product 1D schemes; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40c04c7e-ee19-45d0-8bb0-ad2d01784ff6)
 - 47 MPI Matrix vector product 2D scheme; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4e398db-28eb-4747-a032-ad2d017dfc16)
 - 48 Parallel Speed-up; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd191579-3c13-4e79-9d2a-ad2d01824d85)
