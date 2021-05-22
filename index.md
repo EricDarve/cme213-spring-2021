@@ -152,8 +152,7 @@ Material for the May 17 group activity:
 - 48 Parallel Speed-up; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd191579-3c13-4e79-9d2a-ad2d01824d85)
 - 49 Isoefficiency; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4df2b842-8fcf-40ed-8572-ad2f0176c84f)
 - 50 MPI Communicators; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e9377d1-a9ca-4f58-bd75-ad2f01899dd3)
-
-<!-- - [Reading assignment 8](Reading Assignments/MPI) -->
+- [Reading assignment 8](Reading Assignments/MPI)
 
 ## Reading and links
 
