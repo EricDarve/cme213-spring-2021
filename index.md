@@ -27,6 +27,7 @@ Final project instructions and starter code:
 
 - [Final Project Part 1](Homework/Part1.pdf)
 - [Final Project Part 2](Homework/Part2.pdf)
+- [Short overview of Nsight Systems](Homework/Profiler.pdf)
 - [Starter code](Homework/fp.zip)
 
 Slides and videos explaining the final project:
