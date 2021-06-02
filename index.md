@@ -155,6 +155,10 @@ Material for the May 17 group activity:
 - 50 MPI Communicators; [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e9377d1-a9ca-4f58-bd75-ad2f01899dd3)
 - [Reading assignment 8](Reading Assignments/MPI)
 
+### Module 10 SLAC guest lecture, Task-based parallel programming
+
+- Parallel Programming Models by Elliott Slaughter; [Slides](Lecture Slides/CME213_2021_Legion.pdf); Video
+
 ## Reading and links
 
 **Lawrence Livermore National Lab Resources**
