@@ -157,7 +157,7 @@ Material for the May 17 group activity:
 
 ### Module 10 SLAC guest lecture, Task-based parallel programming
 
-- Parallel Programming Models by Elliott Slaughter; [Slides](Lecture Slides/CME213_2021_Legion.pdf); Video
+- Parallel Programming Models by Elliott Slaughter; [Slides](Lecture Slides/CME213_2021_Legion.pdf); [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3cda8c6-bc8b-4c03-b403-ad3b017c91bc)
 
 ## Reading and links
 
